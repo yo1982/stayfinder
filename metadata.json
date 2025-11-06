@@ -1,0 +1,5 @@
+{
+  "name": "StayFinder - AI-Powered Hotel Booking",
+  "description": "A modern, Airbnb-inspired hotel booking application that uses Gemini to dynamically generate hotel listings. Users can search for destinations and view beautifully presented hotel options.",
+  "requestFramePermissions": []
+}
